@@ -1,0 +1,4 @@
+# these are the requirements needed to run the program
+# very simple since this was built to run on colab
+matplotlib>=3.7
+notebook>=7.0
